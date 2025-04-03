@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # config_flavor
 
 A new Flutter project.
