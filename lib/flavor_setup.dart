@@ -12,7 +12,7 @@ void setupFlavor(String flavorString) {
 
 Flavor _getFlavorFromString(String flavor) {
   switch (flavor) {
-    case 'test':
+    case 'staging':
       return Flavor.test;
     case 'dev':
       return Flavor.dev;
